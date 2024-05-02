@@ -21,7 +21,7 @@
       - Command-line interface: Designs a user-friendly command-line interface for smooth 
         interaction, making banking transactions intuitive and straightforward.
 
-## INSTALLATION:
+## INSTALLATION GUIDE:
       - Clone the repository: git clone https://github.com/ManojKumarLL/Banking-Application.git
       - Navigate to the project directory: cd Banking-Application
       - Compile the code: javac Bank.java
